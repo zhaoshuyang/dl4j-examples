@@ -81,7 +81,7 @@
             <version>${dl4j.version}</version>
         </dependency>
 
-        <!-- Force guava versions for using UI/HistogramIterationListener -->
+        <!-- Force guava versions for using UI/HistogramIterationListener zhao-->
         <dependency>
             <groupId>com.google.guava</groupId>
             <artifactId>guava</artifactId>
